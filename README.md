@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/AvinashMatre50/30-days-java-automation-roadmap?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AvinashMatre50/30-days-java-automation-roadmap?style=social)
+
+
 # 🚀 30 Days Java Roadmap for Automation Testing
 
 ## 📌 Objective
